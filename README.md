@@ -1,0 +1,4 @@
+libfaa
+======
+
+Fundamental astrodynamics algorithms
